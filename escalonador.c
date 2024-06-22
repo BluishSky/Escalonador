@@ -282,5 +282,5 @@ int main() {
                 printf("Opcao invalida! Tente novamente.\n");  // Mensagem de erro para escolha inválida
         }
     }
-    return 0;  // Retorna 0 para indicar que o programa terminou corretamente
+    return 0;
 }
